@@ -1,4 +1,4 @@
-# Energy Weather Forecasting Data
+# Energy Weather Forecasting
 
 ## Project Overview
 
